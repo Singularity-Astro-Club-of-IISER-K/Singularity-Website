@@ -6,7 +6,7 @@
 
     let y;
     let tabs = [
-        {name: 'About Us', link: "#about", icon: "fa-solid fa-book"},
+        {name: 'Join', link: "#about", icon: "fa-solid fa-book"},
         {name: 'Contact Us', link: "#contact", icon: "fa-solid fa-paper-plane"},
     ]
 
